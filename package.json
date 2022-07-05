@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/shp-nakajima-personal/typescript-for-javascript-develop#readme",
   "devDependencies": {
+    "ts-node": "^10.8.2",
     "typescript": "^3.7.5"
   }
 }
